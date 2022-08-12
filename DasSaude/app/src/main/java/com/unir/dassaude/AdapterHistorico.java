@@ -11,12 +11,12 @@ package com.unir.dassaude;
         Ultima alteração 11/08/2022
 
         Este projeto foi desenvolvido por Jonathan Oliveira Pinheiro da Costa
-        * contato: +55 (69) 9 9383-9679
-        * email: jonathan-boy1999@hotmail.com
+        * contato: +55 (69) 3213-4566
+        * email: contatojonathan1999@gmail.com
 
         Componentes do aplicativo:
         persistência de dados (SQL e/ou Shared Preferences), RecyclerView, SmartTabLayout, Fragments,
-        Múltiplas Telas, validação de campos, Toast e/ou SnackBar, Intents explícitos e implícitos.
+        Múltiplas Telas, validação de campos, Toast, Intents explícitos e implícitos.
 
             *** Das informações do compilador ***
 
