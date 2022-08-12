@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DasSaude</string>
+
+    <string name="titulo">DasSaude</string>
+    <string name="app_assunto">Há um clique de uma vida mais saudável</string>
+    <string name="app_assunto1_rcq">Calculadora de Ralação cintura quadril</string>
+    <string name="app_assunto_pi">Calculadora de Peso ideal</string>
+    <string name="app_assunto_imc">Calculadora de IMC</string>
+    <string name="title_activity_relacao_cintura_quadril">Relacao_cintura_quadril</string>
+
+    <string name="btn_limpar">Limpar dados</string>
+    <string name="btn_iniciar">Começar</string>
+    <string name="btn_historico">Histórico</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_home_page">Página inicial</string>
+    <string name="btn_voltar">Voltar</string>
+
+    <string name="nome">Nome</string>
+    <string name="idade">Idade</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="masc">Masculino</string>
+    <string name="fem">Feminino</string>
+    <string name="cicunf_cintura">Circunferência da cintura</string>
+    <string name="cicunf_quadril">Circunferência do quadril</string>
+
+    <string-array name="dialog_items">
+        <item>Sobre a relação cintura quadril</item>
+        <item>Sobre o indice de massa corporal</item>
+        <item>Sobre o peso ideal</item>
+    </string-array>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="codigo">Código</string>
+    <string name="ID">ID</string>
+    <string name="resultado">Resultado</string>
+</resources>

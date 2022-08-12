@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.unir.dassaude">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logocoracao"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logocoracao"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DasSaude">
+        <activity
+            android:name=".Historico"
+            android:exported="false" />
+        <activity
+            android:name=".Fundo_Abas"
+            android:exported="false" />
+        <activity
+            android:name=".fragmentos.Pi"
+            android:exported="false" />
+        <activity
+            android:name=".fragmentos.Imc"
+            android:exported="false" />
+        <activity
+            android:name=".fragmentos.Rcq"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
